@@ -1,0 +1,7 @@
+版本：Python3.7 
+第三方库：snownlp、tushare
+
+getData：从东方财富网股吧获取数据
+SQL：用到的数据库操作函数
+quantilizeSentiment：量化情绪指数，生成excel文件。
+analyze：进行分析、数据可视化
